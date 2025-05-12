@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanchi Arora,</h1>
-<h3 align="center">Student at Thapar Institute of Engineering and Technology, Patiala. A passionate Full Stack Developer and Java Programmer. I enjoy building scalable web applications, solving complex problems, and continuously learning new technologies.</h3>
+<h3 align="center"> A passionate Full Stack Developer and Java Programmer. I enjoy building scalable web applications, solving complex problems, and continuously learning new technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
